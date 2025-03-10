@@ -22,3 +22,5 @@ Para desarrollar el código tanto en C++  como en Python en este problema utiliz
 Utilizamos los condicionales, ya que es necesario generar una respuesta ante las diversas soluciones que se den, de lo contrario solo podremos generar una solución, en ves de varios procedimientos según lo que se escoge.
 *	Comparación con posibles soluciones alternativas y razones de la elección final.
 Otra posible solución es utilizando los case, los cuales cumplen casi la misma función que el if, pero estos es preferiblemente utilizarlos en casos de mas condicionales, pero se pueden utilizar casi de la misma manera.
+  
+***1.3. Diagrama UML***
