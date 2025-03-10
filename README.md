@@ -24,3 +24,5 @@ Utilizamos los condicionales, ya que es necesario generar una respuesta ante las
 Otra posible solución es utilizando los case, los cuales cumplen casi la misma función que el if, pero estos es preferiblemente utilizarlos en casos de mas condicionales, pero se pueden utilizar casi de la misma manera.
   
 ***1.3. Diagrama UML***
+![WhatsApp Image 2025-03-08 at 3 07 19 PM](https://github.com/user-attachments/assets/a549eb25-f9d2-4240-8c1f-1262b45ee0b2)
+![WhatsApp Image 2025-03-08 at 3 06 50 PM](https://github.com/user-attachments/assets/371261df-af50-4985-ba80-758b9aa29a03)
