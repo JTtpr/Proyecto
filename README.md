@@ -13,3 +13,10 @@ El uso principal del código es reaccionar y generar diferentes resultados de ac
 *  Identificación de entradas, procesos y salidas esperadas.
 Como entrada podemos identificar las variables, las cuales serian las balas, el escudo, y que tipo o cantidad se utiliza en cada uno, en el caso de las balas si es una normal, perforante o explosiva, y en caso de las placas es si generan 10, 20, o más protección al jugador.
 Como salida se nos da el resultado de todo el proceso, en esta ocasión es poder conocer si fue un daño crítico, y cuanto daño se le causo al jugador.
+1.2 Justificación de la solución
+*	Explicación detallada de la estrategia decidida para resolver el problema.
+Para desarrollar el código tanto en C++  como en Python en este problema utilizamos los condicionales if, else, y if else o elif cada uno para su respectivo lenguaje, para después utilizar una herramienta del respectivo lenguaje para dejar digitar al usuario que tipo de bala utiliza, las placas y el daño de bala, de esta manera con los datos dados por el usuario se realizan 3 diferentes operaciones, la primera que es el daño causado menos el escudo, la segunda que es el daño causado menos la mitad del escudo, y la tercera que es el doble de daño – el escudo
+*	Justificación de la estructura de datos y algoritmos seleccionados.
+Utilizamos los condicionales, ya que es necesario generar una respuesta ante las diversas soluciones que se den, de lo contrario solo podremos generar una solución, en ves de varios procedimientos según lo que se escoge.
+*	Comparación con posibles soluciones alternativas y razones de la elección final.
+Otra posible solución es utilizando los case, los cuales cumplen casi la misma función que el if, pero estos es preferiblemente utilizarlos en casos de mas condicionales, pero se pueden utilizar casi de la misma manera.
